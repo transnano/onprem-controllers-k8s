@@ -11,6 +11,15 @@
 ![GitHub stars](https://img.shields.io/github/stars/transnano/onprem-controllers-k8s?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/transnano/onprem-controllers-k8s?style=social)
 
+## Examples with Docker
+
+To run any example, go the the directory for the language and run
+
+```sh
+docker build -t myapp .
+docker run -t --rm myapp
+```
+
 ## Contributing
 
 :TODO
