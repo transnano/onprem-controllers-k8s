@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/transnano/onprem-controllers-k8s?style=flat)
 ![License](https://img.shields.io/github/license/transnano/onprem-controllers-k8s?style=flat)
 
-![Container image version](https://img.shields.io/docker/v/transnano/onprem-controllers-k8s/latest??style=flat)
+![Container image version](https://img.shields.io/docker/v/transnano/onprem-controllers-k8s/latest?style=flat)
 ![Container image size](https://img.shields.io/docker/image-size/transnano/onprem-controllers-k8s/latest?style=flat)
 ![Container image pulls](https://img.shields.io/docker/pulls/transnano/onprem-controllers-k8s?style=flat)
 
