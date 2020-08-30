@@ -5,8 +5,13 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/transnano/onprem-controllers-k8s?style=flat)
 ![License](https://img.shields.io/github/license/transnano/onprem-controllers-k8s?style=flat)
 
+![Container image version](https://img.shields.io/docker/v/transnano/onprem-controllers-k8s?style=flat)
+![Container image size](https://img.shields.io/docker/image-size/transnano/onprem-controllers-k8s/latest?style=flat)
+![Container image pulls](https://img.shields.io/docker/pulls/transnano/onprem-controllers-k8s?style=flat)
+
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/transnano/onprem-controllers-k8s)
 [![Go Report Card](https://goreportcard.com/badge/github.com/transnano/onprem-controllers-k8s)](https://goreportcard.com/report/github.com/transnano/onprem-controllers-k8s)
+
 ![GitHub watchers](https://img.shields.io/github/watchers/transnano/onprem-controllers-k8s?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/transnano/onprem-controllers-k8s?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/transnano/onprem-controllers-k8s?style=social)
