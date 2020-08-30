@@ -24,4 +24,4 @@ FROM gcr.io/distroless/base-debian10
 #FROM gcr.io/distroless/base
 LABEL maintainer="Transnano <transnano.jp@gmail.com>"
 COPY --from=build /go/src/github.com/transnano/onprem-controllers-k8s/controller /
-CMD ["/controller"]
+ENTRYPOINT ["/controller"]
