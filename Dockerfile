@@ -19,7 +19,7 @@ COPY . .
 # Build
 RUN  go build -a -o controller -ldflags "-s -w"
 
-# Now copy it into our base image.
+# hadolint ignore=DL3006
 FROM gcr.io/distroless/base-debian10
 #FROM gcr.io/distroless/base
 LABEL maintainer="Transnano <transnano.jp@gmail.com>"
