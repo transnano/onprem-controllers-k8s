@@ -1,5 +1,5 @@
 # Start by building the application.
-FROM golang:1.18.5-buster as build
+FROM golang:1.19.0-buster as build
 
 WORKDIR /go/src/github.com/transnano/onprem-controllers-k8s/
 # For building Go Module required
